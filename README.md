@@ -1,6 +1,9 @@
 # LlamaIndex-Q-A-Application
 This repository provides an easy-to-use framework for indexing and querying documents with the LlamaIndex library. By following the structure of this code, users can create their own Q&A system that indexes documents, persists the index for later use, and performs efficient querying.
 
+## Note 
+Create a folder named 'data' and place your PDF files inside it. The 'storage' folder will store the indexed data for later use. 
+
 ### Code Explanation: LlamaIndex Q&A Application
 
 This Python code is designed to create a **Question & Answer** system using **LlamaIndex** and **Streamlit**. The system works by indexing a set of documents and then allowing users to query the index for relevant information.
