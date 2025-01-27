@@ -48,3 +48,5 @@ Here’s a breakdown of the key components:
 
 ---
 
+![image](https://github.com/user-attachments/assets/9e7a7fe3-8f57-4154-adf9-e936c96b64eb) 
+
